@@ -47,7 +47,7 @@ Hoje, sigo explorando e aprendendo cada vez mais, buscando unir tecnologia e cri
 
 ## 📑 Portfólio
 Aqui estão alguns dos meus projetos! Sempre busco unir tecnologia e criatividade para desenvolver ideias inovadoras. Dá uma olhada:
-🔗 [Meu portfólio](https://malu-rm84.github.io/Portf-fio_Malu/)
+🔗 [Meu portfólio](https://malu-rm84.github.io/Portfolio_Malu/)
 
 ## 📬 Entre em contato comigo!
 [![Gmail](https://img.shields.io/badge/Gmail-9B59B6?style=for-the-badge&logo=gmail&logoColor=D8CEF6)]()
