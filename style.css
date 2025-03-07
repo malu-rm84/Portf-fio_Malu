@@ -14,7 +14,7 @@ body {
 
 /* Cabeçalho com banner */
 header {
-    background: url('seu-banner.jpg') center/cover no-repeat;
+    background: url('art_banner_portfoólio.jpg') center/cover no-repeat;
     color: black;
     text-align: center;
     padding: 80px 0;
@@ -107,6 +107,55 @@ nav a:hover {
 
 .foto img:hover {
     transform: scale(1.05);
+}
+
+/* Seção: Formação */
+#formacao {
+    background-color: #f0f0f0; /* Cinza claro */
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#formacao h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #6a0dad; /* Roxo */
+    margin-bottom: 20px;
+}
+
+.formacao-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.formacao-box {
+    background-color: #c0c0c0; /* Cinza claro */
+    padding: 20px;
+    width: 380px;
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(85, 107, 47, 0.7); /* Verde musgo */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.formacao-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(85, 107, 47, 1); /* Verde musgo mais forte */
+}
+
+.formacao-box h3 {
+    font-size: 1.8rem;
+    color: #6a0dad; /* Roxo */
+    margin-bottom: 10px;
+}
+
+.formacao-box p {
+    font-size: 1rem;
+    color: #000; /* Preto */
+    line-height: 1.5;
+    margin-bottom: 5px;
 }
 
 /* Seção: Projetos */
